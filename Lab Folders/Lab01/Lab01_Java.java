@@ -6,7 +6,7 @@ void testMethod1()
   //Second commnad print(x)
 
 
-  //Last line print('Good bye')
+  //Last line print('Bye bye')
 }
 
 void testMethod2()
@@ -14,6 +14,7 @@ void testMethod2()
   // First command x = //to be filled in by student
   // Second command 
   // Third command
+  // edit made by student 230170612
 }
 
 void main()
